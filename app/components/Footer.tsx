@@ -58,7 +58,7 @@ export default function Footer() {
         </div>
 
         <div className="footer__bottom">
-          <div className="footer__copyright">© 2025 Bright Future Academy. All rights reserved.</div>
+          <div className="footer__copyright">© 2026 Bright Future Academy. All rights reserved.</div>
           <div className="footer__bottom-links">
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Use</a>
