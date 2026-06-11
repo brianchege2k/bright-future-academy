@@ -1001,7 +1001,9 @@
   .header__nav { display: none; }
   .header__menu-toggle { display: flex; }
   .header__phone { display: none; }
-
+  .header__right .btn {
+    display: none;
+  }
   .about__grid { 
     grid-template-columns: 1fr; 
     gap: 48px; 
